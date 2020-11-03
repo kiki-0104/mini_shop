@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-10-27 07:23:10
+/* Smarty version 3.1.29, created on 2020-11-03 07:13:02
   from "C:\UniServerZ\www\mini_shop\templates\index_side.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f97cade8a4712_18066427',
+  'unifunc' => 'content_5fa102fe044950_23057567',
   'file_dependency' => 
   array (
     '77dfdec34fe451d1a0afa7faf92eb434a1fc04d2' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\index_side.html',
-      1 => 1603778873,
+      1 => 1604387570,
       2 => 'file',
     ),
   ),
@@ -22,10 +22,10 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
     'file:side_cart.html' => 1,
   ),
 ),false)) {
-function content_5f97cade8a4712_18066427 ($_smarty_tpl) {
+function content_5fa102fe044950_23057567 ($_smarty_tpl) {
 ?>
 <div class="panel panel-primary">
-  <div class="panel-heading">功能表</div>
+  <div class="panel-heading">列表</div>
   <div class="panel-body">
     <?php if ($_smarty_tpl->tpl_vars['isUser']->value) {?>
       <?php $_smarty_tpl->smarty->ext->_subtemplate->render($_smarty_tpl, "file:side_tools.html", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, $_smarty_tpl->cache_lifetime, array(), 0, false);
