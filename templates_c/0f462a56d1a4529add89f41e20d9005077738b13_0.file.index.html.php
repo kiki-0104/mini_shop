@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-11-08 07:38:22
+/* Smarty version 3.1.29, created on 2020-11-08 08:28:41
   from "C:\UniServerZ\www\mini_shop\templates\index.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5fa7a06e9f48a5_64910780',
+  'unifunc' => 'content_5fa7ac396531b2_08569678',
   'file_dependency' => 
   array (
     '0f462a56d1a4529add89f41e20d9005077738b13' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\index.html',
-      1 => 1604821095,
+      1 => 1604824109,
       2 => 'file',
     ),
   ),
@@ -28,7 +28,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
     'file:index_side.html' => 1,
   ),
 ),false)) {
-function content_5fa7a06e9f48a5_64910780 ($_smarty_tpl) {
+function content_5fa7ac396531b2_08569678 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -62,7 +62,7 @@ function content_5fa7a06e9f48a5_64910780 ($_smarty_tpl) {
     <div class="container">
       <div id="shop_head">
         <a href="index.php">
-          <img src="images/x.jpg" alt="<?php echo $_smarty_tpl->tpl_vars['shop_name']->value;?>
+          <img src="images/t.jpg" alt="<?php echo $_smarty_tpl->tpl_vars['shop_name']->value;?>
 " class="img-responsive">
         </a>
       </div>
@@ -115,6 +115,7 @@ function content_5fa7a06e9f48a5_64910780 ($_smarty_tpl) {
       </div>
 
       <div id="shop_foot" >
+        <div>個人建議：希望不管是哪一種項目都買，讓你一生可以過得很快樂</div>
         <div>地址：台南市歸仁區長大路1號</div>
         <div>電話：(06)2785123</div>
         <div>版權所有 copyright © 2020 tad0616.net. All Rights Reserved. </div>
