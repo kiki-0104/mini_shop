@@ -1,5 +1,5 @@
 <?php
-define('_SHOP_NAME', '娃娃拍賣');
+define('_SHOP_NAME', '史迪奇系列吊飾和娃娃大拍賣');
 define('_DB_HOST', 'localhost');
 define('_DB_ID', 'root');
 define('_DB_PW', '12345');
