@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-11-10 05:34:46
+/* Smarty version 3.1.29, created on 2020-11-10 06:45:23
   from "C:\UniServerZ\www\mini_shop\templates\display_bill.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5faa2676446184_36383006',
+  'unifunc' => 'content_5faa3703cff131_49720094',
   'file_dependency' => 
   array (
     '50a915ffeb2acaa67ab41234fe07282a9ab4da64' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\display_bill.html',
-      1 => 1604986477,
+      1 => 1604986728,
       2 => 'file',
     ),
   ),
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5faa2676446184_36383006 ($_smarty_tpl) {
+function content_5faa3703cff131_49720094 ($_smarty_tpl) {
 ?>
 <h2><?php echo $_smarty_tpl->tpl_vars['bill']->value['bill_date'];?>
  訂購細目-<?php echo $_smarty_tpl->tpl_vars['bill']->value['bill_status'];?>
@@ -39,7 +39,7 @@ echo $_smarty_tpl->tpl_vars['bill']->value['user_address'];?>
       <th>商品名稱</th>
       <th>單價</th>
       <th>數量</th>
-      <th style="text-align: right;">小計</th>
+      <th style="text-align: right;">合計</th>
     </tr>
   <?php
 $_from = $_smarty_tpl->tpl_vars['bill_detail']->value;
