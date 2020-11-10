@@ -12,3 +12,4 @@
 <p>11. 把小計改成 合計。(display_bill.html)</p>
 <p>12. 帳號用 tab 間隔開來。(side_login.html)</p>
 <p>13. 密碼用 tab 間隔開來。(side_login.html)</p>
+<p>14. {$login_user.user_name}您好！的中間用 tab 空一格，也就是會員名字和您好！中間空一格。(side_
