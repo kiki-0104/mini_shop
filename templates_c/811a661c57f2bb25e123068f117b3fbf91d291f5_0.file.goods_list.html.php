@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-10-27 07:23:10
+/* Smarty version 3.1.29, created on 2020-11-10 04:55:45
   from "C:\UniServerZ\www\mini_shop\templates\goods_list.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f97cade86b2e1_44049448',
+  'unifunc' => 'content_5faa1d51af3575_02477559',
   'file_dependency' => 
   array (
     '811a661c57f2bb25e123068f117b3fbf91d291f5' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\goods_list.html',
-      1 => 1603778873,
+      1 => 1604939017,
       2 => 'file',
     ),
   ),
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f97cade86b2e1_44049448 ($_smarty_tpl) {
+function content_5faa1d51af3575_02477559 ($_smarty_tpl) {
 ?>
 <div class="row">
   <?php
@@ -65,7 +65,7 @@ $_smarty_tpl->tpl_vars['goods'] = $__foreach_goods_0_saved_item;
 </div>
 
 共有 <?php echo $_smarty_tpl->tpl_vars['total']->value;?>
- 件商品
+ 件人生商品
 <?php echo $_smarty_tpl->tpl_vars['bar']->value;?>
 
 <?php }

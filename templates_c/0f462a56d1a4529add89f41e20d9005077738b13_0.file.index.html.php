@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-11-08 15:54:34
+/* Smarty version 3.1.29, created on 2020-11-10 04:55:45
   from "C:\UniServerZ\www\mini_shop\templates\index.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5fa814bac16611_49085399',
+  'unifunc' => 'content_5faa1d51a55160_67276743',
   'file_dependency' => 
   array (
     '0f462a56d1a4529add89f41e20d9005077738b13' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\index.html',
-      1 => 1604843130,
+      1 => 1604939142,
       2 => 'file',
     ),
   ),
@@ -28,7 +28,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
     'file:index_side.html' => 1,
   ),
 ),false)) {
-function content_5fa814bac16611_49085399 ($_smarty_tpl) {
+function content_5faa1d51a55160_67276743 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang="zh-Hant">
@@ -115,7 +115,7 @@ function content_5fa814bac16611_49085399 ($_smarty_tpl) {
       </div>
 
       <div id="shop_foot" >
-        <div>個人建議：希望不管甚麼項目，全部都買，會讓你一生可以過得很快樂</div>
+        <div>個人建議：希望是甚麼項目全部都買，會讓你一生有了他們，可以過得比較快樂一點</div>
         <div>地址：台南市歸仁區長大路1號</div>
         <div>電話：(06)2785123</div>
         <div>版權所有 copyright © 2020 tad0616.net. All Rights Reserved. </div>

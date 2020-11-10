@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-10-27 07:30:32
+/* Smarty version 3.1.29, created on 2020-11-10 05:47:39
   from "C:\UniServerZ\www\mini_shop\templates\side_cart.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f97cc98d582a2_45319683',
+  'unifunc' => 'content_5faa297ba3afd6_65371700',
   'file_dependency' => 
   array (
     'bee598256fbdda862c393760e20a67abdd1d77d8' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\side_cart.html',
-      1 => 1603778873,
+      1 => 1604987252,
       2 => 'file',
     ),
   ),
@@ -19,11 +19,11 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f97cc98d582a2_45319683 ($_smarty_tpl) {
+function content_5faa297ba3afd6_65371700 ($_smarty_tpl) {
 ?>
 <form action="bill.php" method="post" class="form-horizontal" role="form">
   <div class="panel panel-info">
-    <div class="panel-heading">我的購物車</div>
+    <div class="panel-heading">我  的  購  物  車</div>
     <table class="table">
       <?php
 $_from = $_smarty_tpl->tpl_vars['cart']->value;

@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-10-27 07:23:22
+/* Smarty version 3.1.29, created on 2020-11-10 04:56:00
   from "C:\UniServerZ\www\mini_shop\templates\display_user.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f97caea1e7671_54993838',
+  'unifunc' => 'content_5faa1d60615d94_77204580',
   'file_dependency' => 
   array (
     '5123d3f7966c5b1e10ff34f2d72cedec3637d4f5' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\display_user.html',
-      1 => 1603778873,
+      1 => 1604940149,
       2 => 'file',
     ),
   ),
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f97caea1e7671_54993838 ($_smarty_tpl) {
+function content_5faa1d60615d94_77204580 ($_smarty_tpl) {
 ?>
 <h1>會員資料</h1>
 <div class="row">
@@ -111,7 +111,7 @@ echo $_smarty_tpl->tpl_vars['user']->value['user_address'];?>
 >
           <?php if ($_smarty_tpl->tpl_vars['now_user_sn']->value != $_smarty_tpl->tpl_vars['login_user']->value['user_sn']) {?>
               <a href="javascript:delete_user('<?php echo $_smarty_tpl->tpl_vars['user']->value['user_sn'];?>
-')" class="btn btn-danger">刪除帳號</a>
+')" class="btn btn-danger">真的要刪除帳號</a>
           <?php }?>
         <?php }?>
     </div>
