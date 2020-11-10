@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-11-03 05:24:22
+/* Smarty version 3.1.29, created on 2020-11-10 05:55:49
   from "C:\UniServerZ\www\mini_shop\templates\side_login.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5fa0e986f1ea49_20434181',
+  'unifunc' => 'content_5faa2b655b9d63_02572899',
   'file_dependency' => 
   array (
     'f1df6df367b62f03f69eed0258e303321d48e9bb' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\side_login.html',
-      1 => 1603778874,
+      1 => 1604987733,
       2 => 'file',
     ),
   ),
@@ -19,18 +19,18 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5fa0e986f1ea49_20434181 ($_smarty_tpl) {
+function content_5faa2b655b9d63_02572899 ($_smarty_tpl) {
 ?>
 <form action="user.php" method="post" role="form" class="form-horizontal">
   <div class="form-group">
-    <label class="col-md-4 control-label">帳號：</label>
+    <label class="col-md-4 control-label">帳  號：</label>
     <div class="col-md-8">
       <input type="text" name="user_id" id="user_id" class="form-control" placeholder="請輸入帳號">
     </div>
   </div>
 
   <div class="form-group">
-    <label class="col-md-4 control-label">密碼：</label>
+    <label class="col-md-4 control-label">密  碼：</label>
     <div class="col-md-8">
       <input type="password" name="user_passwd" id="user_passwd" class="form-control" placeholder="請輸入密碼">
     </div>
