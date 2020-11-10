@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-10-27 07:23:10
+/* Smarty version 3.1.29, created on 2020-11-10 06:19:11
   from "C:\UniServerZ\www\mini_shop\templates\side_tools.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f97cade8ca194_65640184',
+  'unifunc' => 'content_5faa30df5f1618_37406701',
   'file_dependency' => 
   array (
     'b90dcac5f5aaa58ea3787fcf29569b3f7a4e4a09' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\side_tools.html',
-      1 => 1603778874,
+      1 => 1604989135,
       2 => 'file',
     ),
   ),
@@ -19,11 +19,11 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f97cade8ca194_65640184 ($_smarty_tpl) {
+function content_5faa30df5f1618_37406701 ($_smarty_tpl) {
 ?>
 <div class="alert alert-success">
   <?php echo $_smarty_tpl->tpl_vars['login_user']->value['user_name'];?>
-您好！歡迎光臨<?php echo $_smarty_tpl->tpl_vars['shop_name']->value;?>
+ 您好！歡迎光臨<?php echo $_smarty_tpl->tpl_vars['shop_name']->value;?>
 
 </div>
 <a href="index.php" class="btn btn-block btn-primary">回首頁</a>
