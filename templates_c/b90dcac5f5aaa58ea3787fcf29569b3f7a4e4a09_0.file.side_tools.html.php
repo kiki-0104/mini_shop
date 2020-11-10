@@ -1,17 +1,17 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-11-10 06:19:11
+/* Smarty version 3.1.29, created on 2020-11-10 06:33:11
   from "C:\UniServerZ\www\mini_shop\templates\side_tools.html" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5faa30df5f1618_37406701',
+  'unifunc' => 'content_5faa34275e10d8_86659366',
   'file_dependency' => 
   array (
     'b90dcac5f5aaa58ea3787fcf29569b3f7a4e4a09' => 
     array (
       0 => 'C:\\UniServerZ\\www\\mini_shop\\templates\\side_tools.html',
-      1 => 1604989135,
+      1 => 1604989602,
       2 => 'file',
     ),
   ),
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5faa30df5f1618_37406701 ($_smarty_tpl) {
+function content_5faa34275e10d8_86659366 ($_smarty_tpl) {
 ?>
 <div class="alert alert-success">
   <?php echo $_smarty_tpl->tpl_vars['login_user']->value['user_name'];?>
