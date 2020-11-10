@@ -10,3 +10,5 @@
 <p>9.  刪除帳號改成 真的要刪除帳號。(display_user.html)</p>
 <p>10. 把我的購物車每一個自用  tab 間隔開來。(side_cart.html)</p>
 <p>11. 把小計改成 合計。(display_bill.html)</p>
+<p>12. 帳號用 tab 間隔開來。(side_login.html)</p>
+<p>13. 密碼用 tab 間隔開來。(side_login.html)</p>
