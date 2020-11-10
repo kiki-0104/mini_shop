@@ -8,4 +8,5 @@
 <p>7.  把地址和電話更改。(index.html)</p>
 <p>8.  版權所有從2016改成 2020。(index.html)</p>
 <p>9.  刪除帳號改成 真的要刪除帳號。(display_user.html)</p>
-<p>10. 把小計改成 合計。(display_bill.html)</p>
+<p>10. 把我的購物車每一個自用tab間隔開來。(side_cart.html)</p>
+<p>11. 把小計改成 合計。(display_bill.html)</p>
